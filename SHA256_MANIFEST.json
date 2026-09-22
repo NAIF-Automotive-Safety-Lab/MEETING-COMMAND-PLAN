@@ -1,0 +1,137 @@
+{
+  "package_id": "T-OCS-V7.0-REVISION-2-MASTER-MEETING-SYSTEM",
+  "status": "FINAL_CONTROLLED",
+  "self_hash_excluded": true,
+  "artifacts": [
+    {
+      "path": "01_L1_CONTROLLED_BRIEF.md",
+      "size_bytes": 2437,
+      "sha256": "26401bebd8ca43519d73c2d62d55070cf438ea5dd8a11d279de6dd540cedf359"
+    },
+    {
+      "path": "02_MEETING_PREPARATION_CHECKLIST.md",
+      "size_bytes": 613,
+      "sha256": "64ca663af8fc30eed73d790e91fbe6b8c4609eccd6553b7039f712db70feec77"
+    },
+    {
+      "path": "03_MASTER_TIMED_AGENDA.md",
+      "size_bytes": 705,
+      "sha256": "084a61250d812eb0c2782539249225d48b6c3d1427bdb6634c6ee480209cc82a"
+    },
+    {
+      "path": "04_TIME_CONTROL_SHEET.md",
+      "size_bytes": 319,
+      "sha256": "0f0814802b92c150341c50d94b93d85a44fe2348651e3894ddd66e2839e62751"
+    },
+    {
+      "path": "05_LOGISTICS_SHEET.md",
+      "size_bytes": 621,
+      "sha256": "4d8e2dc2926497b62cc110ca7edb92a2485caabbff2691acbe14baa6b06e4c5d"
+    },
+    {
+      "path": "06_TECHNICAL_QUALIFICATION_QUESTION_TREE.md",
+      "size_bytes": 968,
+      "sha256": "656ab440c14b53f2bb302ea0d28b3efc01e7db579404c936f8a0789f87082b4a"
+    },
+    {
+      "path": "07_EXPECTED_QA.md",
+      "size_bytes": 2574,
+      "sha256": "69d7da0618cd793bdf5d53ca8c91e87f2ead4aec9c1df91e36ce0f7307906e6f"
+    },
+    {
+      "path": "08_ADVERSARIAL_QUESTIONS.md",
+      "size_bytes": 645,
+      "sha256": "5e552833450f390bc8a1417a07c285709b0b9f1f54b9b04ac885fe541fb5c759"
+    },
+    {
+      "path": "09_PROBLEM_SOLVING_WORKSHOP.md",
+      "size_bytes": 1636,
+      "sha256": "1d77597f4cff915991b0aafc5538f1d3f12a16b794f97c0985824ab633152758"
+    },
+    {
+      "path": "10_BRAINSTORMING_FRAMEWORK.md",
+      "size_bytes": 495,
+      "sha256": "f8e328d7ba113fadcfbc207886ae9c14f95a69da43fbe2050b10d4dd3219e6d1"
+    },
+    {
+      "path": "11_TEAM_BUILDING_FRAMEWORK.md",
+      "size_bytes": 771,
+      "sha256": "3c841fc413491d7236a399de539f3fee3907ecaecc5d44080946effaa8d3337b"
+    },
+    {
+      "path": "12_DECISION_LOG.md",
+      "size_bytes": 231,
+      "sha256": "3b9f752a28bbca7a087f0feeb31b7a2cb315ba2f82fb300f8c281e706fcca34c"
+    },
+    {
+      "path": "13_ACTION_OWNER_DEADLINE_LOG.md",
+      "size_bytes": 217,
+      "sha256": "b469231efd5f72541b32fc8b0453c6d2d9f9aa0ba19f17ffb1df38340059e5ae"
+    },
+    {
+      "path": "14_NDA_DISCLOSURE_CONTROL.md",
+      "size_bytes": 942,
+      "sha256": "dffb6c7f93f447dffe7f52e2dcabafbd34197b5cc664a885514806e49c007eb8"
+    },
+    {
+      "path": "15_ARRK_SPECIFIC_MEETING_PREP.md",
+      "size_bytes": 1305,
+      "sha256": "4948c97959ee23e638ef0b48379fe8a5d0a0adf6f2fd1ca441f01348a9804fcf"
+    },
+    {
+      "path": "16_CALSPAN_SPECIFIC_MEETING_PREP.md",
+      "size_bytes": 1181,
+      "sha256": "471cf49f519c36d1f8ea2e6f345c98d66fd444f8193fb0887e3c35685be55d25"
+    },
+    {
+      "path": "17_TOYOTA_BOSHOKU_SPECIFIC_MEETING_PREP.md",
+      "size_bytes": 1176,
+      "sha256": "f80cc1ff1c92bf5fb52e497c3f9b331afdb9739d9c14b6fc2223198b93aceff8"
+    },
+    {
+      "path": "18_POST_MEETING_EVIDENCE_CONVERSION_PROCEDURE.md",
+      "size_bytes": 742,
+      "sha256": "d9ecd6282fcab9d5875d36cd5d96021a8e460a97d0b819b54398c23557702cd3"
+    },
+    {
+      "path": "19_SOURCE_CONTROL_AND_LIMITATIONS.md",
+      "size_bytes": 1087,
+      "sha256": "ee9180e1b9fa03706a445244568d7febd20d816de61684c4e7f1a4410c750814"
+    },
+    {
+      "path": "CONTROL/FINAL_GATE.json",
+      "size_bytes": 640,
+      "sha256": "0b39751d5bfd16eb70355bf811c57cb74d5ea0ae4bc9eb4c6d19f19778845d56"
+    },
+    {
+      "path": "CONTROL/FINAL_GATE.md",
+      "size_bytes": 836,
+      "sha256": "d4a5b2fb172860862702392e2bf05447c0f0a6ae5f5b0becc83bc6f63598db9b"
+    },
+    {
+      "path": "CONTROL/FINAL_INVENTORY.json",
+      "size_bytes": 1132,
+      "sha256": "1ca2478dbb7eb3a3f0c2ad9b29b0831b4313e042f75899ae4c00428be566d32b"
+    },
+    {
+      "path": "CONTROL/FINAL_PACKAGE_SHA256.txt",
+      "size_bytes": 114,
+      "sha256": "5f7d333c30c9555f6715f490ba71cc51c3b5203196981179c7b437cb0349bf1d"
+    },
+    {
+      "path": "MASTER_PACKAGE_INVENTORY.csv",
+      "size_bytes": 4029,
+      "sha256": "56f0a0d35f0c71cabaf19df627ebbf4fbc76339842728ba6b51c5b2bb6dc4909"
+    },
+    {
+      "path": "QA/T-OCS V7.0 REVISION-2 — NON-CONFIDENTIAL CORPORATE TECHNICAL & TECHNICAL-QUALIFICATION PRESENTATION.pdf",
+      "size_bytes": 248915,
+      "sha256": "7054d2f822c8f51ecea83a294ca099cfcbcf4162ddf746070dbb16a6dc42000a"
+    },
+    {
+      "path": "T-OCS V7.0 REVISION-2 — NON-CONFIDENTIAL CORPORATE TECHNICAL & TECHNICAL-QUALIFICATION PRESENTATION.pptx",
+      "size_bytes": 483356,
+      "sha256": "046485fd721e371b577322faa43b532631549757eb31d8fcd3b60111dc85979c"
+    }
+  ]
+}
