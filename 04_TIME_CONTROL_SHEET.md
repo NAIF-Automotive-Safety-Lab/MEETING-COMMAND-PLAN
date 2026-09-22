@@ -1,9 +1,15 @@
-# TIME-CONTROL SHEET
+# TIME CONTROL SHEET
 
-**Default meeting:** 45 minutes
+**Meeting clock:** 45 minutes hard stop.
 
-Hard stops: 3 / 8 / 14 / 18 / 24 / 36 / 41 / 44 / 45.
+| Trigger | Action |
+|---|---|
+| 10 min elapsed | Close architecture explanation and move to evidence boundary |
+| 20 min elapsed | Start C1 if still discussing company capabilities |
+| 30 min elapsed | C2/C3 must be captured; do not drift into implementation detail |
+| 35 min elapsed | Force C4/C5 questions |
+| 40 min elapsed | Stop new technical threads; move to action/deadline |
+| 43 min elapsed | Read back recorded decisions |
+| 45 min | Hard stop / schedule next decision |
 
-Rule: at T−2 minutes, the facilitator summarizes and moves the topic to the parking lot unless a decision is essential.
-
-Parking-lot items must enter the Action Log or Open Items Log; they do not disappear.
+**Stop conditions:** proprietary mechanism request, exact dimensions request, CAD/STEP request, detailed force/energy request, internal audit request, restricted third-party information, or an attempt to turn a discussion statement into an accepted project fact without evidence.

@@ -1,0 +1,43 @@
+TASK_ID,PHASE,COMPANY,MEETING_ID,OBJECTIVE,OWNER,DUE_DATE,DEPENDENCY,REQUIRED_INPUT,REQUIRED_EVIDENCE,ACCEPTANCE_CRITERION,STATUS,POST_MEETING_ACTION
+ARRK-PRE-01,PRE-MEETING,ARRK,ARRK-M01,Confirm identity / participants,Naif,TBD,Contact record,Name/title record,Confirmed meeting invite,Participants confirmed,OPEN,
+ARRK-PRE-02,PRE-MEETING,ARRK,ARRK-M01,Confirm meeting timing / timezone,Naif,TBD,Scheduling,Invite,Confirmed date/time/timezone,Calendar record verified,OPEN,
+ARRK-PRE-03,PRE-MEETING,ARRK,ARRK-M01,Prepare L1 deck + brief,John,Before meeting,Package revision,Presentation + L1 brief,Final package hash,Exact revision matches inventory,OPEN,
+ARRK-PRE-04,PRE-MEETING,ARRK,ARRK-M01,Run disclosure checklist,John,Before meeting,L1 boundary,Disclosure checklist,Completed checklist,No prohibited content,OPEN,
+ARRK-PRE-05,PRE-MEETING,ARRK,ARRK-M01,Prepare C1–C5 questions,John,Before meeting,Company module,Question tree,Prepared question list,All C1–C5 covered,OPEN,
+ARRK-LIVE-01,LIVE-MEETING,ARRK,ARRK-M01,Capture technical scope,John,Meeting,C1,Company response,Minutes,Scope recorded,OPEN,Convert to action
+ARRK-LIVE-02,LIVE-MEETING,ARRK,ARRK-M01,Capture required evidence,John,Meeting,C2,Company response,Minutes,Evidence list recorded,OPEN,Issue evidence requests
+ARRK-LIVE-03,LIVE-MEETING,ARRK,ARRK-M01,Capture entry criteria,John,Meeting,C3,Company response,Minutes,Entry criteria recorded,OPEN,Gate Phase-1
+ARRK-LIVE-04,LIVE-MEETING,ARRK,ARRK-M01,Capture commercial structure,Naif,Meeting,C4,Company response,Minutes / quote,Structure explicitly stated,OPEN,Commercial follow-up
+ARRK-LIVE-05,LIVE-MEETING,ARRK,ARRK-M01,Capture NDA trigger,Naif,Meeting,C5,Company response,Disclosure log,Trigger explicitly stated,OPEN,Route disclosure
+ARRK-LIVE-06,LIVE-MEETING,ARRK,ARRK-M01,Capture owner + deadline,Naif,Meeting,Action closeout,Agreed action,Minutes,One owner + one deadline,OPEN,Create action item
+ARRK-POST-01,POST-MEETING,ARRK,ARRK-M01,Convert meeting record to evidence ledger,John,Within 1 business day,Minutes,Meeting record,Evidence ledger,All statements classified,OPEN,Peter review
+ARRK-POST-02,POST-MEETING,ARRK,ARRK-M01,Issue engineering action record,John,Within 1 business day,Converted record,Action definition,Action record,Action accepted or blocked,OPEN,Track
+ARRK-POST-03,POST-MEETING,ARRK,ARRK-M01,Update NDA/disclosure status,Naif,Within 1 business day,Disclosure decision,NDA status,Disclosure record,Boundary reflected,OPEN,Gate next disclosure
+CALSPAN-PRE-01,PRE-MEETING,CALSPAN,CALSPAN-M01,Confirm identity / participants,Naif,TBD,Contact record,Name/title record,Confirmed meeting invite,Participants confirmed,OPEN,
+CALSPAN-PRE-02,PRE-MEETING,CALSPAN,CALSPAN-M01,Confirm meeting timing / timezone,Naif,TBD,Scheduling,Invite,Confirmed date/time/timezone,Calendar record verified,OPEN,
+CALSPAN-PRE-03,PRE-MEETING,CALSPAN,CALSPAN-M01,Prepare L1 deck + brief,John,Before meeting,Package revision,Presentation + L1 brief,Final package hash,Exact revision matches inventory,OPEN,
+CALSPAN-PRE-04,PRE-MEETING,CALSPAN,CALSPAN-M01,Run disclosure checklist,John,Before meeting,L1 boundary,Disclosure checklist,Completed checklist,No prohibited content,OPEN,
+CALSPAN-PRE-05,PRE-MEETING,CALSPAN,CALSPAN-M01,Prepare C1–C5 questions,John,Before meeting,Company module,Question tree,Prepared question list,All C1–C5 covered,OPEN,
+CALSPAN-LIVE-01,LIVE-MEETING,CALSPAN,CALSPAN-M01,Capture technical scope,John,Meeting,C1,Company response,Minutes,Scope recorded,OPEN,Convert to action
+CALSPAN-LIVE-02,LIVE-MEETING,CALSPAN,CALSPAN-M01,Capture required evidence,John,Meeting,C2,Company response,Minutes,Evidence list recorded,OPEN,Issue evidence requests
+CALSPAN-LIVE-03,LIVE-MEETING,CALSPAN,CALSPAN-M01,Capture entry criteria,John,Meeting,C3,Company response,Minutes,Entry criteria recorded,OPEN,Gate Phase-1
+CALSPAN-LIVE-04,LIVE-MEETING,CALSPAN,CALSPAN-M01,Capture commercial structure,Naif,Meeting,C4,Company response,Minutes / quote,Structure explicitly stated,OPEN,Commercial follow-up
+CALSPAN-LIVE-05,LIVE-MEETING,CALSPAN,CALSPAN-M01,Capture NDA trigger,Naif,Meeting,C5,Company response,Disclosure log,Trigger explicitly stated,OPEN,Route disclosure
+CALSPAN-LIVE-06,LIVE-MEETING,CALSPAN,CALSPAN-M01,Capture owner + deadline,Naif,Meeting,Action closeout,Agreed action,Minutes,One owner + one deadline,OPEN,Create action item
+CALSPAN-POST-01,POST-MEETING,CALSPAN,CALSPAN-M01,Convert meeting record to evidence ledger,John,Within 1 business day,Minutes,Meeting record,Evidence ledger,All statements classified,OPEN,Peter review
+CALSPAN-POST-02,POST-MEETING,CALSPAN,CALSPAN-M01,Issue engineering action record,John,Within 1 business day,Converted record,Action definition,Action record,Action accepted or blocked,OPEN,Track
+CALSPAN-POST-03,POST-MEETING,CALSPAN,CALSPAN-M01,Update NDA/disclosure status,Naif,Within 1 business day,Disclosure decision,NDA status,Disclosure record,Boundary reflected,OPEN,Gate next disclosure
+TOYOTA_BOSHOKU-PRE-01,PRE-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Confirm identity / participants,Naif,TBD,Contact record,Name/title record,Confirmed meeting invite,Participants confirmed,OPEN,
+TOYOTA_BOSHOKU-PRE-02,PRE-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Confirm meeting timing / timezone,Naif,TBD,Scheduling,Invite,Confirmed date/time/timezone,Calendar record verified,OPEN,
+TOYOTA_BOSHOKU-PRE-03,PRE-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Prepare L1 deck + brief,John,Before meeting,Package revision,Presentation + L1 brief,Final package hash,Exact revision matches inventory,OPEN,
+TOYOTA_BOSHOKU-PRE-04,PRE-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Run disclosure checklist,John,Before meeting,L1 boundary,Disclosure checklist,Completed checklist,No prohibited content,OPEN,
+TOYOTA_BOSHOKU-PRE-05,PRE-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Prepare C1–C5 questions,John,Before meeting,Company module,Question tree,Prepared question list,All C1–C5 covered,OPEN,
+TOYOTA_BOSHOKU-LIVE-01,LIVE-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Capture technical scope,John,Meeting,C1,Company response,Minutes,Scope recorded,OPEN,Convert to action
+TOYOTA_BOSHOKU-LIVE-02,LIVE-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Capture required evidence,John,Meeting,C2,Company response,Minutes,Evidence list recorded,OPEN,Issue evidence requests
+TOYOTA_BOSHOKU-LIVE-03,LIVE-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Capture entry criteria,John,Meeting,C3,Company response,Minutes,Entry criteria recorded,OPEN,Gate Phase-1
+TOYOTA_BOSHOKU-LIVE-04,LIVE-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Capture commercial structure,Naif,Meeting,C4,Company response,Minutes / quote,Structure explicitly stated,OPEN,Commercial follow-up
+TOYOTA_BOSHOKU-LIVE-05,LIVE-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Capture NDA trigger,Naif,Meeting,C5,Company response,Disclosure log,Trigger explicitly stated,OPEN,Route disclosure
+TOYOTA_BOSHOKU-LIVE-06,LIVE-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Capture owner + deadline,Naif,Meeting,Action closeout,Agreed action,Minutes,One owner + one deadline,OPEN,Create action item
+TOYOTA_BOSHOKU-POST-01,POST-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Convert meeting record to evidence ledger,John,Within 1 business day,Minutes,Meeting record,Evidence ledger,All statements classified,OPEN,Peter review
+TOYOTA_BOSHOKU-POST-02,POST-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Issue engineering action record,John,Within 1 business day,Converted record,Action definition,Action record,Action accepted or blocked,OPEN,Track
+TOYOTA_BOSHOKU-POST-03,POST-MEETING,TOYOTA_BOSHOKU,TOYOTA_BOSHOKU-M01,Update NDA/disclosure status,Naif,Within 1 business day,Disclosure decision,NDA status,Disclosure record,Boundary reflected,OPEN,Gate next disclosure

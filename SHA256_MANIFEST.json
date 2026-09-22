@@ -1,137 +1,176 @@
 {
-  "package_id": "T-OCS-V7.0-REVISION-2-MASTER-MEETING-SYSTEM",
-  "status": "FINAL_CONTROLLED",
-  "self_hash_excluded": true,
+  "package_id": "T-OCS-V7.0-REVISION-2-MASTER-MEETING-COMMAND-PLAN",
+  "package_revision": "MRS-002",
+  "project_commit_sha": "f562a8cfe00835f1919ab3683bf17b3ae407100b",
+  "manifest_type": "EXTERNAL_SHA256_MANIFEST",
+  "independent_verification": "NOT_CLAIMED",
+  "self_excluded_to_avoid_recursive_hash": true,
+  "inventory_self_excluded_to_avoid_recursive_hash": true,
   "artifacts": [
     {
-      "path": "01_L1_CONTROLLED_BRIEF.md",
-      "size_bytes": 2437,
-      "sha256": "26401bebd8ca43519d73c2d62d55070cf438ea5dd8a11d279de6dd540cedf359"
+      "path": "00_CONTROL/20_SPEAKER_CONTROL.csv",
+      "size_bytes": 6614,
+      "sha256": "36110331b4785b9edefbfb71764ebc56463732bb9d32530021fb35f715779e03"
     },
     {
-      "path": "02_MEETING_PREPARATION_CHECKLIST.md",
-      "size_bytes": 613,
-      "sha256": "64ca663af8fc30eed73d790e91fbe6b8c4609eccd6553b7039f712db70feec77"
-    },
-    {
-      "path": "03_MASTER_TIMED_AGENDA.md",
-      "size_bytes": 705,
-      "sha256": "084a61250d812eb0c2782539249225d48b6c3d1427bdb6634c6ee480209cc82a"
-    },
-    {
-      "path": "04_TIME_CONTROL_SHEET.md",
-      "size_bytes": 319,
-      "sha256": "0f0814802b92c150341c50d94b93d85a44fe2348651e3894ddd66e2839e62751"
-    },
-    {
-      "path": "05_LOGISTICS_SHEET.md",
-      "size_bytes": 621,
-      "sha256": "4d8e2dc2926497b62cc110ca7edb92a2485caabbff2691acbe14baa6b06e4c5d"
-    },
-    {
-      "path": "06_TECHNICAL_QUALIFICATION_QUESTION_TREE.md",
-      "size_bytes": 968,
-      "sha256": "656ab440c14b53f2bb302ea0d28b3efc01e7db579404c936f8a0789f87082b4a"
-    },
-    {
-      "path": "07_EXPECTED_QA.md",
-      "size_bytes": 2574,
-      "sha256": "69d7da0618cd793bdf5d53ca8c91e87f2ead4aec9c1df91e36ce0f7307906e6f"
-    },
-    {
-      "path": "08_ADVERSARIAL_QUESTIONS.md",
-      "size_bytes": 645,
-      "sha256": "5e552833450f390bc8a1417a07c285709b0b9f1f54b9b04ac885fe541fb5c759"
-    },
-    {
-      "path": "09_PROBLEM_SOLVING_WORKSHOP.md",
-      "size_bytes": 1636,
-      "sha256": "1d77597f4cff915991b0aafc5538f1d3f12a16b794f97c0985824ab633152758"
-    },
-    {
-      "path": "10_BRAINSTORMING_FRAMEWORK.md",
-      "size_bytes": 495,
-      "sha256": "f8e328d7ba113fadcfbc207886ae9c14f95a69da43fbe2050b10d4dd3219e6d1"
-    },
-    {
-      "path": "11_TEAM_BUILDING_FRAMEWORK.md",
-      "size_bytes": 771,
-      "sha256": "3c841fc413491d7236a399de539f3fee3907ecaecc5d44080946effaa8d3337b"
-    },
-    {
-      "path": "12_DECISION_LOG.md",
-      "size_bytes": 231,
-      "sha256": "3b9f752a28bbca7a087f0feeb31b7a2cb315ba2f82fb300f8c281e706fcca34c"
-    },
-    {
-      "path": "13_ACTION_OWNER_DEADLINE_LOG.md",
-      "size_bytes": 217,
-      "sha256": "b469231efd5f72541b32fc8b0453c6d2d9f9aa0ba19f17ffb1df38340059e5ae"
-    },
-    {
-      "path": "14_NDA_DISCLOSURE_CONTROL.md",
-      "size_bytes": 942,
-      "sha256": "dffb6c7f93f447dffe7f52e2dcabafbd34197b5cc664a885514806e49c007eb8"
-    },
-    {
-      "path": "15_ARRK_SPECIFIC_MEETING_PREP.md",
-      "size_bytes": 1305,
-      "sha256": "4948c97959ee23e638ef0b48379fe8a5d0a0adf6f2fd1ca441f01348a9804fcf"
-    },
-    {
-      "path": "16_CALSPAN_SPECIFIC_MEETING_PREP.md",
+      "path": "00_CONTROL/FINAL_GATE.json",
       "size_bytes": 1181,
-      "sha256": "471cf49f519c36d1f8ea2e6f345c98d66fd444f8193fb0887e3c35685be55d25"
+      "sha256": "78c0a707aaae3d56bf68cb90c0cc60ac5f3461bb2018864a03ad0b56b23cf7a7"
     },
     {
-      "path": "17_TOYOTA_BOSHOKU_SPECIFIC_MEETING_PREP.md",
-      "size_bytes": 1176,
-      "sha256": "f80cc1ff1c92bf5fb52e497c3f9b331afdb9739d9c14b6fc2223198b93aceff8"
+      "path": "00_CONTROL/FINAL_PACKAGE_SUMMARY.json",
+      "size_bytes": 1871,
+      "sha256": "d2ee75a2dd6332c181df5885845b5780d8c686efceb7fd983fc85c463133923d"
     },
     {
-      "path": "18_POST_MEETING_EVIDENCE_CONVERSION_PROCEDURE.md",
-      "size_bytes": 742,
-      "sha256": "d9ecd6282fcab9d5875d36cd5d96021a8e460a97d0b819b54398c23557702cd3"
+      "path": "00_CONTROL/JON_SELF_CHECK_RESULT.json",
+      "size_bytes": 597,
+      "sha256": "403bddfb98bccd3f84183e6bafa7c31e75763f9a54c64072538e6a2eb5fc6713"
     },
     {
-      "path": "19_SOURCE_CONTROL_AND_LIMITATIONS.md",
-      "size_bytes": 1087,
-      "sha256": "ee9180e1b9fa03706a445244568d7febd20d816de61684c4e7f1a4410c750814"
+      "path": "00_CONTROL/MASTER_PACKAGE_INVENTORY.csv",
+      "size_bytes": 4118,
+      "sha256": "5f131e1c318b1183eb43d70e43d7d987f8e4f2942f63190b8d31c0d473673270"
     },
     {
-      "path": "CONTROL/FINAL_GATE.json",
-      "size_bytes": 640,
-      "sha256": "0b39751d5bfd16eb70355bf811c57cb74d5ea0ae4bc9eb4c6d19f19778845d56"
+      "path": "00_CONTROL/SELF_CHECK_RECORD.md",
+      "size_bytes": 2367,
+      "sha256": "cf992c93e948fd206f53132ec7aa3dd6175398a849cf20661fea07e118221127"
     },
     {
-      "path": "CONTROL/FINAL_GATE.md",
-      "size_bytes": 836,
-      "sha256": "d4a5b2fb172860862702392e2bf05447c0f0a6ae5f5b0becc83bc6f63598db9b"
+      "path": "00_CONTROL/SOURCE_CONTROL_REGISTER.md",
+      "size_bytes": 3360,
+      "sha256": "f5d8a6b43294f964966e358492839409847a22b53c6b212394bb435d4eb0cffb"
     },
     {
-      "path": "CONTROL/FINAL_INVENTORY.json",
-      "size_bytes": 1132,
-      "sha256": "1ca2478dbb7eb3a3f0c2ad9b29b0831b4313e042f75899ae4c00428be566d32b"
+      "path": "01_PRESENTATION/PDF_BACKUP/T-OCS V7.0 REVISION-2 — NON-CONFIDENTIAL CORPORATE TECHNICAL & TECHNICAL-QUALIFICATION PRESENTATION.pdf",
+      "size_bytes": 396360,
+      "sha256": "69bbf59b270a9a0b21d9c520a5a1c8f05b77f93e8f6ab7cd87c0c0af92f87140"
     },
     {
-      "path": "CONTROL/FINAL_PACKAGE_SHA256.txt",
-      "size_bytes": 114,
-      "sha256": "5f7d333c30c9555f6715f490ba71cc51c3b5203196981179c7b437cb0349bf1d"
+      "path": "01_PRESENTATION/T-OCS V7.0 REVISION-2 — NON-CONFIDENTIAL CORPORATE TECHNICAL & TECHNICAL-QUALIFICATION PRESENTATION.pptx",
+      "size_bytes": 130859,
+      "sha256": "ddf4872327516d4940da840de42453ff5524cade14f505407aa58bdae5b855a2"
     },
     {
-      "path": "MASTER_PACKAGE_INVENTORY.csv",
-      "size_bytes": 4029,
-      "sha256": "56f0a0d35f0c71cabaf19df627ebbf4fbc76339842728ba6b51c5b2bb6dc4909"
+      "path": "02_TECHNICAL_STORY/T-OCS V7.0 REVISION-2 — NON-CONFIDENTIAL CORPORATE TECHNICAL BRIEF.md",
+      "size_bytes": 3413,
+      "sha256": "703b1d84cdf9291f505313b6e5755c79fa14e302103d73878a27e25bebf58183"
     },
     {
-      "path": "QA/T-OCS V7.0 REVISION-2 — NON-CONFIDENTIAL CORPORATE TECHNICAL & TECHNICAL-QUALIFICATION PRESENTATION.pdf",
-      "size_bytes": 248915,
-      "sha256": "7054d2f822c8f51ecea83a294ca099cfcbcf4162ddf746070dbb16a6dc42000a"
+      "path": "02_TECHNICAL_STORY/T-OCS V7.0 REVISION-2_MASTER_TECHNICAL_STORY_REPORT.md",
+      "size_bytes": 15153,
+      "sha256": "d46adbad9129fe8705f68ce28c4e9a59683443d8522a954c21689d217ce902e6"
     },
     {
-      "path": "T-OCS V7.0 REVISION-2 — NON-CONFIDENTIAL CORPORATE TECHNICAL & TECHNICAL-QUALIFICATION PRESENTATION.pptx",
-      "size_bytes": 483356,
-      "sha256": "046485fd721e371b577322faa43b532631549757eb31d8fcd3b60111dc85979c"
+      "path": "03_MEETING_EXECUTION/01_MEETING_PREPARATION_CHECKLIST.md",
+      "size_bytes": 1355,
+      "sha256": "0d8010342ee8061d5255f5e3ea22dbb8dd59c6d3966655d02d8af02fdd0b3edc"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/02_MASTER_TIMED_AGENDA.md",
+      "size_bytes": 1413,
+      "sha256": "b4fab8bb7a93a34554f5c4b3cf87dc4cf147154232415c92e26e890c02d88dd6"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/03_LOGISTICS_SHEET.md",
+      "size_bytes": 1657,
+      "sha256": "39f23bf26566146ae5e4e9472d7512423106ed1c741af35f1ec7deb9ea4e9890"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/04_TIME_CONTROL_SHEET.md",
+      "size_bytes": 828,
+      "sha256": "8709a9e59637ab57766a3b053c10cb1a8ca257ce684c37e1f53fa6b6aa82ac28"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/05_TECHNICAL_QUALIFICATION_QUESTION_TREE.md",
+      "size_bytes": 1388,
+      "sha256": "594cffc001eb08576484a0761ea1cbeb58372a2d10207bc7a850d8979cb83438"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/06_EXPECTED_QA.md",
+      "size_bytes": 7685,
+      "sha256": "13d7fccb7439290e6671ad2b671ce6f44f5a417345e2c5afe8290803b520810b"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/07_ADVERSARIAL_QUESTIONS.md",
+      "size_bytes": 1368,
+      "sha256": "ab1c11187469f7cd46b731cc247c3e4d48baed6ccd826aa81b80ad1d622c8188"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/08_PROBLEM_SOLVING_WORKSHOP.md",
+      "size_bytes": 1953,
+      "sha256": "4754421f9ad4f9bdc12367367def724c1a5c57d9a8d98c6e5bc73bc72c12058d"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/09_BRAINSTORMING_GOVERNANCE.md",
+      "size_bytes": 922,
+      "sha256": "4a5beebefb0130e804af5f8e3139855491621ebb2da78b7c30e5c45010d585eb"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/10_TEAM_BUILDING_FRAMEWORK.md",
+      "size_bytes": 954,
+      "sha256": "6d26da2200ad8349d560fdb08327cc43b1bfd6b5d683edc41f9e3d1e5b99bca1"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/11_DECISION_LOG.md",
+      "size_bytes": 652,
+      "sha256": "a2d1438c3b5d829907ec9e1146c40cd75c58c8fb074ad8c690c57927629b4aa0"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/12_ACTION_OWNER_DEADLINE_LOG.md",
+      "size_bytes": 733,
+      "sha256": "e32ba955cb939bd93fb43335614dbe112e94bd7940319f95958e01c895d724d9"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/13_NDA_DISCLOSURE_CONTROL.md",
+      "size_bytes": 928,
+      "sha256": "f8eeeca1642db34bde54779ccbcbd8a051654f684b9db5794eefbfd06e862c3c"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/14_POST_MEETING_EVIDENCE_CONVERSION_PROCEDURE.md",
+      "size_bytes": 835,
+      "sha256": "ef16daca77e838f241ede8f196f2678e55322eac76b192b3fbbd6c0470f62fa0"
+    },
+    {
+      "path": "03_MEETING_EXECUTION/15_MASTER_MEETING_TASK_REGISTER.csv",
+      "size_bytes": 7719,
+      "sha256": "d3b961646862b735e975f2e42fd49d3b728469602538d2c0eebfcfe7a547b550"
+    },
+    {
+      "path": "04_COMPANY_PACKS/ARRK_ENGINEERING_MEETING_PREPARATION.md",
+      "size_bytes": 5161,
+      "sha256": "22081c6eb6f24e45a988e71ff84506e8489c453474c4daf450726316fc0d9ee9"
+    },
+    {
+      "path": "04_COMPANY_PACKS/CALSPAN_AUTOMOTIVE_TEST_SERVICES_MEETING_PREPARATION.md",
+      "size_bytes": 5157,
+      "sha256": "d704ad1bbe3ed091c57cff6bbae0484d63e7119e84b0fcd920c9e559288eea6b"
+    },
+    {
+      "path": "04_COMPANY_PACKS/COMPANY_CONTACT_STATUS_RECORD.md",
+      "size_bytes": 1390,
+      "sha256": "4102c61b0ecf74449216ef04f134a5b236537d64115d42cb81af414812ec691b"
+    },
+    {
+      "path": "04_COMPANY_PACKS/TOYOTA_BOSHOKU_AMERICA_MEETING_PREPARATION.md",
+      "size_bytes": 5224,
+      "sha256": "a36dc58e1919de06953bc9a8a5f37e05941efdbc4f9b16e524f0dbf3507084f8"
+    },
+    {
+      "path": "05_TEMPLATES/DECISION_ACTION_CONVERSION_TEMPLATE.md",
+      "size_bytes": 335,
+      "sha256": "16df23ee933857e227b2160af59423a7328e4dfaf5bb25bda8e6dee688eec6a8"
+    },
+    {
+      "path": "05_TEMPLATES/DISCLOSURE_CHECKLIST.md",
+      "size_bytes": 928,
+      "sha256": "f8eeeca1642db34bde54779ccbcbd8a051654f684b9db5794eefbfd06e862c3c"
+    },
+    {
+      "path": "06_QA/PRESENTATION_QA.json",
+      "size_bytes": 1936,
+      "sha256": "38eb130a00f38a7c5f2d1c4b7092ad4ba6af37097d59d8962bb5e92e7755394b"
     }
   ]
 }

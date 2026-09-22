@@ -1,0 +1,25 @@
+{
+  "status": "SELF_CHECK_PASS_READY_FOR_PETER",
+  "independent_verification": "NOT_CLAIMED",
+  "package_revision": "MRS-002",
+  "slide_count": 27,
+  "notes_count": 27,
+  "pdf_pages": 27,
+  "task_rows": 42,
+  "phase_counts": {
+    "PRE-MEETING": 15,
+    "LIVE-MEETING": 18,
+    "POST-MEETING": 9
+  },
+  "company_counts": {
+    "ARRK": 14,
+    "CALSPAN": 14,
+    "TOYOTA_BOSHOKU": 14
+  },
+  "disclosure_scan": "PASS",
+  "overflow": "PASS",
+  "csv_roundtrip": "PASS",
+  "company_pack_headers": "PASS",
+  "slide_sequence": "PASS",
+  "contact_record": "COMMAND_PROVIDED_FACTS_PENDING_SOURCE_RE_READ"
+}

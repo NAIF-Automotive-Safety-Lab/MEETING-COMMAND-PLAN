@@ -1,0 +1,64 @@
+{
+  "package_revision": "MRS-002",
+  "independent_verification": "NOT_CLAIMED",
+  "presentation": {
+    "pptx_path": "01_PRESENTATION/T-OCS V7.0 REVISION-2 — NON-CONFIDENTIAL CORPORATE TECHNICAL & TECHNICAL-QUALIFICATION PRESENTATION.pptx",
+    "pptx_sha256": "ddf4872327516d4940da840de42453ff5524cade14f505407aa58bdae5b855a2",
+    "slides": 27,
+    "speaker_notes": 27,
+    "pdf_path": "01_PRESENTATION/PDF_BACKUP/T-OCS V7.0 REVISION-2 — NON-CONFIDENTIAL CORPORATE TECHNICAL & TECHNICAL-QUALIFICATION PRESENTATION.pdf",
+    "pdf_sha256": "69bbf59b270a9a0b21d9c520a5a1c8f05b77f93e8f6ab7cd87c0c0af92f87140",
+    "pdf_pages": 27
+  },
+  "checks": {
+    "content_QA": true,
+    "disclosure_QA": true,
+    "evidence_QA": false,
+    "presentation_QA": true,
+    "task_system_QA": true,
+    "company_specific_QA": true,
+    "package_QA": "PASS",
+    "hash_QA": "PENDING_FINAL_BIND"
+  },
+  "visible_forbidden_hits": [],
+  "speaker_note_missing_fields": [],
+  "csv_roundtrip": [
+    {
+      "path": "00_CONTROL/20_SPEAKER_CONTROL.csv",
+      "rows_excluding_header": 27,
+      "columns": 9,
+      "roundtrip_parse": true
+    },
+    {
+      "path": "00_CONTROL/MASTER_PACKAGE_INVENTORY.csv",
+      "rows_excluding_header": 32,
+      "columns": 3,
+      "roundtrip_parse": true
+    },
+    {
+      "path": "03_MEETING_EXECUTION/15_MASTER_MEETING_TASK_REGISTER.csv",
+      "rows_excluding_header": 42,
+      "columns": 13,
+      "roundtrip_parse": true
+    }
+  ],
+  "task_counts": {
+    "total": 42,
+    "phase_counts": {
+      "PRE-MEETING": 15,
+      "LIVE-MEETING": 18,
+      "POST-MEETING": 9
+    },
+    "company_counts": {
+      "ARRK": 14,
+      "CALSPAN": 14,
+      "TOYOTA_BOSHOKU": 14
+    }
+  },
+  "company_checks": {
+    "ARRK_ENGINEERING_MEETING_PREPARATION.md": true,
+    "CALSPAN_AUTOMOTIVE_TEST_SERVICES_MEETING_PREPARATION.md": true,
+    "TOYOTA_BOSHOKU_AMERICA_MEETING_PREPARATION.md": true
+  },
+  "contact_record_check": false
+}

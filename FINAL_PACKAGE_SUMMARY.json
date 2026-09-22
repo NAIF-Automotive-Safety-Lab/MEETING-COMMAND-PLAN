@@ -1,0 +1,56 @@
+{
+  "package_revision": "MRS-002",
+  "exact_slide_count": 27,
+  "exact_notes_count": 27,
+  "pdf_pages": 27,
+  "task_rows": 42,
+  "csv_file_count": 3,
+  "independent_verification": "NOT_CLAIMED",
+  "release_gate": "READY_FOR_PETER_RED_TEAM",
+  "pptx_sha256": "ddf4872327516d4940da840de42453ff5524cade14f505407aa58bdae5b855a2",
+  "pdf_sha256": "69bbf59b270a9a0b21d9c520a5a1c8f05b77f93e8f6ab7cd87c0c0af92f87140",
+  "source_list": [
+    "V7 disclosure",
+    "V6 disclosure",
+    "Current V7 engineering reconstruction/CAD evidence",
+    "Current V7 interfaces/forensics",
+    "V7 canonical normalization",
+    "P0 controls",
+    "V7 Rade working-package controls",
+    "Current execution-order contact status",
+    "قائمة البريد.pdf (unavailable for byte read in current runtime)"
+  ],
+  "open_items": [
+    "Peter independent red-team / evidence / disclosure / quality review is pending.",
+    "`قائمة البريد.pdf` is not byte-accessible in the current runtime; historical correspondence remains pending independent source re-read.",
+    "Any future company scope, evidence request, entry criterion, commercial structure, NDA response, or commitment must be source-bound before promotion.",
+    "No deeper NDA disclosure is authorized by this build."
+  ],
+  "unknowns": [
+    "Vehicle-specific datum, H/R points, hardpoints and BIW geometry at L1.",
+    "Proprietary implementation and exact dimensions outside the approved L1 boundary.",
+    "Physical crash / injury / regulatory / manufacturing validation.",
+    "Company commercial commitments until documented."
+  ],
+  "unresolved_conflict_ids": [
+    "C-001",
+    "C-002",
+    "C-003",
+    "C-004",
+    "C-005",
+    "C-006",
+    "C-007",
+    "C-008",
+    "C-009",
+    "C-010",
+    "C-011",
+    "C-012",
+    "C-013",
+    "C-014",
+    "C-015",
+    "C-016",
+    "C-017",
+    "C-018",
+    "C-019"
+  ]
+}
