@@ -1,0 +1,10 @@
+CLAIM_ID,ENGINEERING_OR_COMMERCIAL_CLAIM,SOURCE,SOURCE_BASIS,DISCLOSURE_LEVEL,STATUS
+TC-001,"T-OCS investigates coordinated seat translation, seatback motion, occupant packaging and structural load paths during a dynamic event.",V7-DISCLOSURE,Source-derived high-level statement,L1,ALLOWED
+TC-002,"V7 contains a high-level architecture involving controlled longitudinal motion, seatback motion, occupant support/restraint interfaces, event-dependent behavior and rebound/post-event treatment.",V7-DISCLOSURE,Source-derived high-level architecture,L1,ALLOWED
+TC-003,Current V7 is a research / engineering reconstruction baseline and not a manufacturing release.,MASTER-AUDIT-002 + NORMALIZATION-003,Current engineering status,L1,ALLOWED
+TC-004,"Current V7 does not establish crash validation, occupant safety validation, or regulatory compliance.",MASTER-AUDIT-002 + V7-DISCLOSURE,Evidence boundary,L1,ALLOWED
+TC-005,The development path is Concept Closure → Simplified CAD → FE/CAE → Prototype → Dynamic Test / Measurement / Correlation → Phase-2 / Manufacturing / Validation.,Execution Order,User-defined requested development path,L1,ALLOWED
+TC-006,"ARRK's actual scope, prerequisites, fees, NDA trigger, and commitment status are established.",CONTACT SOURCE,Referenced contact source is not accessible in current runtime,L1,UNKNOWN / PENDING HUMAN RESPONSE
+TC-007,"Calspan's actual test scope, prerequisites, fees, sponsorship/co-development route, and commitment status are established.",CONTACT SOURCE,Referenced contact source is not accessible in current runtime,L1,UNKNOWN / PENDING HUMAN RESPONSE
+TC-008,"Toyota Boshoku America's actual feasibility scope, milestones, NDA trigger, co-development structure, and commitment status are established.",CONTACT SOURCE,Referenced contact source is not accessible in current runtime,L1,UNKNOWN / PENDING HUMAN RESPONSE
+TC-009,"Any organization is a partner, customer, sponsor, investor, or approved test provider for T-OCS.",No controlled source,No documented commitment available,L1,NOT ESTABLISHED

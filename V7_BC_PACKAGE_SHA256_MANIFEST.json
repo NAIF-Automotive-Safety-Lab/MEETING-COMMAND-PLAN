@@ -1,0 +1,63 @@
+{
+  "package_id": "T-OCS-V7.0-REVISION-2-PHASE-B-C",
+  "manifest_type": "EXTERNAL_SHA256_MANIFEST",
+  "status": "FINAL_CONTROLLED_ENGAGEMENT_PACKAGE",
+  "artifacts": [
+    {
+      "path": "A_FINAL_L1_NON_CONFIDENTIAL_CORPORATE_TECHNICAL_BRIEF.md",
+      "size_bytes": 6085,
+      "sha256": "01699eefcab515571a1a4cbd7971251aa59427ae02b371ac6f29ecf178d28752"
+    },
+    {
+      "path": "B_MASTER_TECHNICAL_QUALIFICATION_QUESTION_SET.md",
+      "size_bytes": 2966,
+      "sha256": "2e20117dfb6c6cef83f5c1341a4654b68a790e15d139ef7e5c9c117865a2f9ff"
+    },
+    {
+      "path": "C1_ARRK_TECHNICAL_QUALIFICATION_MODULE.md",
+      "size_bytes": 2168,
+      "sha256": "17f0f240597a264bb82d95e413eb4cc515287a1ada80b1db51e50b6b7390f59e"
+    },
+    {
+      "path": "C2_CALSPAN_TECHNICAL_QUALIFICATION_MODULE.md",
+      "size_bytes": 2288,
+      "sha256": "014ad6ad7a147144ff0d86f0944f2d502762b3acb9a8e4ab12d74be916975bc9"
+    },
+    {
+      "path": "C3_TOYOTA_BOSHOKU_TECHNICAL_QUALIFICATION_MODULE.md",
+      "size_bytes": 2164,
+      "sha256": "d03b65c214ad06a8e407124727525a29dc2cb1402b3ed3634eeb01fe90682ce0"
+    },
+    {
+      "path": "F_MEETING_RESULT_ENGINEERING_ACTION_CONVERSION_TEMPLATE.md",
+      "size_bytes": 1513,
+      "sha256": "2d6e063953bc465cbc27da70e2322a99ef2158f91d75a50ea1ff6860bd4b5130"
+    },
+    {
+      "path": "G_DISCLOSURE_CHECKLIST.md",
+      "size_bytes": 1787,
+      "sha256": "1f099f71bf5bbe6b93f50db25459984cd3cce70e6242d4365386d8db3fa36447"
+    },
+    {
+      "path": "H_EVIDENCE_TRACEABILITY_TABLE.csv",
+      "size_bytes": 2062,
+      "sha256": "798b72d63563341c751079b57c60c85b01e8f39cdeea641aedf5a38d780e6aed"
+    },
+    {
+      "path": "JON_HANDOFF_AND_GATE_RECORD.md",
+      "size_bytes": 3097,
+      "sha256": "57fa63536ecbc832027f683d1008f289cf70b6534c322b629c2ec3735266ee2f"
+    },
+    {
+      "path": "SOURCE_AVAILABILITY_AND_LIMITATIONS.md",
+      "size_bytes": 942,
+      "sha256": "8595f877c7a0050a4d6f83d4fd34aa112b502a5aa816279916675c7362fe2b60"
+    },
+    {
+      "path": "V7_BC_INDEPENDENT_VERIFICATION.json",
+      "size_bytes": 950,
+      "sha256": "ba1a4138b300b518d6b34d4c49026d0c992c4426502add71c5994a1c24959080"
+    }
+  ],
+  "manifest_self_hashing": "EXCLUDED_TO_AVOID_RECURSIVE_HASH"
+}

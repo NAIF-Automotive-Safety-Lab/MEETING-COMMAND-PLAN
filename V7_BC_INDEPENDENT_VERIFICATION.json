@@ -1,0 +1,26 @@
+{
+  "task_id": "T-OCS-V7.0-REVISION-2-PHASE-B-C",
+  "checks": {
+    "brief_six_sections_in_order": true,
+    "master_c1_to_c5_present": true,
+    "three_company_modules": true,
+    "meeting_conversion_chain_present": true,
+    "disclosure_firewall_present": true,
+    "evidence_traceability_roundtrip": true,
+    "contact_source_not_fabricated": true,
+    "zip_exists": true,
+    "sha256_manifest_covers_all_non_manifest_artifacts": true,
+    "all_listed_sha256_reverified": true
+  },
+  "artifact_count": 10,
+  "zip_sha256": "52b5f4b03aae451615df8e49dff9c77d1fffdf54bce9fa4db2d23a5581f5acee",
+  "decision": {
+    "JON-B": "PASS",
+    "JON-C": "PASS",
+    "Technical Claims Audit": "PASS",
+    "Disclosure Audit": "PASS",
+    "Evidence Traceability": "PASS"
+  },
+  "open_item": "قائمة البريد.pdf unavailable in current runtime; organization-specific historical communications remain unverified.",
+  "artifact_count_excluding_manifest": 11
+}
